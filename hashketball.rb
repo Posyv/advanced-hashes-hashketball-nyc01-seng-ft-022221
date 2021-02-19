@@ -178,4 +178,3 @@ def find_player_by_name_and_return attr, value
   end
   result
 end
-
